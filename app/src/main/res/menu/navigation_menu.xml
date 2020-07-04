@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/profile_id"
+        android:title="profile"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Home_id"
+        android:title="Home"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/subcribtion_id"
+        android:title="suscribe"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Exit_id"
+        android:title="Exit"
+        app:showAsAction="never"/>
+
+
+</menu>
